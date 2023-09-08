@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+ xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+ <!-- Add a <url> block for each article you want to submit to Google News -->
+ <url>
+ 
+<loc>https://www.ifecityblog.com/https://www.ifecityblog.com/2023/09/tribunal-verdict-failed-to-restore-confidence-in-credible-election-atiku.html</loc>
+ <news:news>
+ <news:publication>
+ <news:name>Ife City Blog</news:name>
+ <news:language>en</news:language>
+ </news:publication>
+ <news:publication_date>2023-09-08</news:publication_date>
+ <news:title>Tribunal: Verdict Failed To Restore Confidence in Credible 
+Election - Atiku</news:title>
+ </news:news>
+ </url>
+ <!-- Repeat <url> block for other articles -->
+</urlset>
